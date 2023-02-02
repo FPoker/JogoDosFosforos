@@ -1,5 +1,5 @@
 # JogoDosFosforos
-Jogo dos Fósfoross
+Jogo dos Fósforos
 
 Este projeto foi elaborado no âmbito de uma disciplina do Curso Software Developer e não se destina a fins
 comerciais. O projeto 'Jogo dos Fósforos' teve como objetivo permitir que os estudantes desenvolvessem habilidades
